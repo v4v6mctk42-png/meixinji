@@ -1,14 +1,14 @@
 {
   "format": "xxj-backup-cloud-manifest",
   "version": 1,
-  "uploadedAt": "2026-10-13T18:25:46.490Z",
+  "uploadedAt": "2026-10-17T16:17:57.192Z",
   "branch": "main",
   "mode": "single",
   "parts": [
     {
       "index": 1,
       "path": "mxj-backup-latest.zip",
-      "bytes": 11150478,
+      "bytes": 11292994,
       "moduleIds": [
         "masks",
         "personas",
